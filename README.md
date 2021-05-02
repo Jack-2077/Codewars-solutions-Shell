@@ -1,2 +1,1 @@
-# Codewars-solutions-Shell
-Codewars Solutions in Shell
+# Codewars Solutions (Shell)
