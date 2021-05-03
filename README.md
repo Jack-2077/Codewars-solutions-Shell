@@ -3,6 +3,7 @@
 | --- | --- | --- |
 | 8 | [Keep up the hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) | [KeepUpTheHoop.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/8%20kyu/KeepUpTheHoop.sh) |
 | 8 | [Beginner Series #2 Clock](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/) | [Clock.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/8-kyu/Clock.sh) |
+| 8 | [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/) | [RemoveStringSpaces.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/8-kyu/RemoveStringSpaces.sh) |
 
 ## Kata Ranking (kyu)
 *source: [Codewars Wiki Honor & Ranks](https://github.com/Codewars/codewars.com/wiki/Honor-&-Ranks) and [Codewars Wiki Kata Ranking](https://github.com/Codewars/codewars.com/wiki/Kata-Ranking)*
