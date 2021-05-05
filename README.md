@@ -1,10 +1,11 @@
 # Codewars Solutions (Shell)
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
-| 7 | [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/) | [DisemvowelTrolls.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/7-kyu/DisemvowelTrolls.sh) |
+| 7 | [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e) | [DisemvowelTrolls.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/7-kyu/DisemvowelTrolls.sh) |
 | 8 | [Keep up the hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) | [KeepUpTheHoop.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/8%20kyu/KeepUpTheHoop.sh) |
-| 8 | [Beginner Series #2 Clock](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/) | [Clock.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/8-kyu/Clock.sh) |
-| 8 | [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/) | [RemoveStringSpaces.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/8-kyu/RemoveStringSpaces.sh) |
+| 8 | [Beginner Series #2 Clock](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a) | [Clock.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/8-kyu/Clock.sh) |
+| 8 | [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | [RemoveStringSpaces.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/8-kyu/RemoveStringSpaces.sh) |
+| 8 | [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Summation.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/8-kyu/Summation.sh) |
 | 8 | [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c) | [KeepHydrated.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/8-kyu/KeepHydrated.sh) |
 
 ## Kata Ranking (kyu)
